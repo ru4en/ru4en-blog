@@ -1,0 +1,4 @@
+baseURL = "https://www.ru4en.tech/"
+languageCode = "en-gb"
+title = "Rubens Blogs"
+theme = "ru4en-site"
